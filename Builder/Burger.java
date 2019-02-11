@@ -1,4 +1,5 @@
-package builder;
+package Builder;
+
 public abstract class Burger implements Item {
 
    @Override

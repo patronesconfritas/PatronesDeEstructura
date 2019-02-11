@@ -1,4 +1,4 @@
-package builder;
+package Builder;
 public abstract class ColdDrink implements Item {
 
 	@Override
